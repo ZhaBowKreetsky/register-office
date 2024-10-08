@@ -1,0 +1,15 @@
+register\config\MarriageConfig.class
+register\manager\PersonManager.class
+register\rest\MarriageController.class
+register\domain\Person.class
+register\dao\MarriageDao.class
+register\business\MarriageManager.class
+register\dao\PersonDao.class
+register\domain\MarriageCertificate.class
+register\domain\PersonFemale.class
+register\domain\PersonMale.class
+register\Starter.class
+register\viev\MarriageRequest.class
+register\viev\MarriageResponse.class
+register\domain\BirthCertificate.class
+register\domain\Passport.class
